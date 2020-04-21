@@ -1,0 +1,145 @@
+*{
+  font-family: 'Raleway', sans-serif;
+}
+body{
+  overflow-x: hidden;
+  /* padding: 0px 5px; */
+}
+
+
+.logo-icon{
+    height: 110px;
+    width: 110px;
+    padding:1px;
+   }
+
+
+.hero {
+
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+text-align: center;
+color: white;
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('https://drscdn.500px.org/photo/1008239111/m%3D900/v2?sig=6124383ffdff44e6e6e48a7eb3bc778546dba97e09e803addbb42f920305e977');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.a-link{
+    color:#93D136;
+  }
+  .a-link:hover{
+    color: pink;
+  }
+ 
+.top-text{
+  font-size: 2em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+  .second-tile{
+      margin-top: 30px;
+  }
+  .text-heading{
+    font-size: 25px;
+}
+.mission-text{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.last-tile{
+    background-color: #93D136;
+    margin-top: 35px;
+}
+.slogan{
+    text-align: center;
+    color: white;
+}
+.headlight{
+    color: #93D136;
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+}
+.details{
+    font-size: 22px;
+}
+.catchy-line{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+.share{
+  margin-top: 30px;
+}
+
+
+.main-box{
+  background-image:linear-gradient(rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.664)), url(images/green.jpg);
+  background-size: cover;
+  box-shadow:0px 0px 15px 5px #93D136;
+  border:2px solid white;
+  border-radius:25px;
+}
+
+.header-text{
+  background-color: rgba(25, 221, 18, 0.5);
+  color: white;
+  height: 100px;
+  border-top-right-radius:25px;
+  border-top-left-radius:25px;
+
+}
+.main-text{
+  line-height:100px;
+  font-size:50px;
+  font-family: arial black;
+}
+.main-box-1{
+  padding:30px;
+  color: white;
+}
+.home-button{
+/* background-image:url(images/button.svg); */
+background-size:cover;
+/* padding:5px; */
+/* color: white; */
+background-color: none;
+/* border-radius:25px; */
+width:100%;
+font-size:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
